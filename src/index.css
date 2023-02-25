@@ -1,0 +1,21 @@
+body {
+  margin: 20px;
+  font-size: 18px;
+  line-height: 25px;
+  font-family: Calibri, sans-serif;
+}
+
+.App {
+  width: 500px;
+}
+
+button {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+  color: dodgerblue;
+}
+
+button:hover {
+  color: darkblue;
+}
